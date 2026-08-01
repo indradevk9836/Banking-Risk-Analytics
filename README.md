@@ -63,13 +63,13 @@ The tables are connected using **Primary** and **Foreign Keys**.
 
 ## 📷 Dashboard Preview
 
-| Home | Summary |
+| Home1 | Home2 |
 |------|---------|
-| ![](Images/home.png) | ![](Images/summary.png) |
+| ![](Images/Bank1.png) | ![](Images/Bank2.png) |
 
 | Loan Analysis | Deposit Analysis |
 |---------------|------------------|
-| ![](Images/loan_analysis.png) | ![](Images/deposit_analysis.png) |
+| ![](Images/Bank3.png) | ![](Images/image.png) |
 
 
 
