@@ -65,11 +65,11 @@ The tables are connected using **Primary** and **Foreign Keys**.
 
 | Home1 | Home2 |
 |------|---------|
-| ![](Images/Bank1.png) | ![](Images/Bank2.png) |
+| ![](Bank1.png) | ![](Bank2.png) |
 
 | Loan Analysis | Deposit Analysis |
 |---------------|------------------|
-| ![](Images/Bank3.png) | ![](Images/image.png) |
+| ![](Bank3.png) | ![](image.png) |
 
 
 
